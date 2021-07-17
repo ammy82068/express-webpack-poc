@@ -6,7 +6,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, 'dist'),
     publicPath: '/',
-    filename: 'api.bundle.js',
+    filename: 'final.js',
   },
   target: 'node',
 };
