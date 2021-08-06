@@ -49,7 +49,7 @@ Your package.json will look like this now:
 
 let’s import express into index.js and create an HTTP server that listens on port 5000 and create a default route with “/” and another with “/api/user”.
 
-Now run the below command
+Now run the below command:
 
     node index.js
 
